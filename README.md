@@ -23,3 +23,13 @@
     <img src="./sec-script.svg" width="480" alt="Sec-Script" />
   </a>
 </div>
+
+---
+
+## Currently Working On
+
+<div align="center">
+  <a href="https://github.com/acdr-code/Sec-Script">
+    <img src="./currently-working.svg" width="620" alt="Currently Working On" />
+  </a>
+</div>
