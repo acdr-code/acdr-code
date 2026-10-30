@@ -4,7 +4,7 @@
 
 ---
 
-## Projects
+## Pinned Projects:
 
 <div align="center">
   <a href="https://github.com/acdr-code/comPLEX">
