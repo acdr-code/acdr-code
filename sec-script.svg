@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="168" viewBox="0 0 520 168" role="img" aria-labelledby="t d">
+<title id="t">Sec-Script</title><desc id="d">SECURITY TOOLING: A Python-based language for security experiments.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141D27"/><stop offset="1" stop-color="#0B1016"/></linearGradient><linearGradient id="glow"><stop stop-color="#FFB77A" stop-opacity=".85"/><stop offset="1" stop-color="#FFB77A" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="518" height="166" rx="16" fill="url(#bg)" stroke="#2B3744" stroke-width="1.5"/><rect x="1" y="1" width="4" height="166" rx="2" fill="#FFB77A"/>
+<text x="27" y="27" fill="#FFB77A" font-family="monospace" font-size="10" letter-spacing="2">SECURITY TOOLING</text><path d="M27 37H350" stroke="url(#glow)" stroke-width="1.5"/>
+<text x="27" y="78" fill="#F3F6FA" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Sec-Script</text>
+<text x="27" y="108" fill="#AAB6C2" font-family="Arial,Helvetica,sans-serif" font-size="14">A Python-based language for security experiments.</text>
+<text x="27" y="145" fill="#687687" font-family="monospace" font-size="9" letter-spacing="1.5">ACDR-CODE  /  PROJECT 04</text>
+<g transform="translate(407 45)"><rect x="0" y="0" width="76" height="76" rx="13" fill="#35271E" stroke="#68472F"/><path d="M30 23L16 38l14 15M46 23l14 15-14 15M43 17L33 59" fill="none" stroke="#FFB77A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M478 139h12m-5-5 5 5-5 5" stroke="#FFB77A" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

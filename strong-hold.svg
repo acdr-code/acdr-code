@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="168" viewBox="0 0 520 168" role="img" aria-labelledby="t d">
+<title id="t">Strong-hold</title><desc id="d">NETWORK ANOMALY DETECTION: ML-based detection of port scans and flood traffic.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141D27"/><stop offset="1" stop-color="#0B1016"/></linearGradient><linearGradient id="glow"><stop stop-color="#78B9FF" stop-opacity=".85"/><stop offset="1" stop-color="#78B9FF" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="518" height="166" rx="16" fill="url(#bg)" stroke="#2B3744" stroke-width="1.5"/><rect x="1" y="1" width="4" height="166" rx="2" fill="#78B9FF"/>
+<text x="27" y="27" fill="#78B9FF" font-family="monospace" font-size="10" letter-spacing="2">NETWORK ANOMALY DETECTION</text><path d="M27 37H350" stroke="url(#glow)" stroke-width="1.5"/>
+<text x="27" y="78" fill="#F3F6FA" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Strong-hold</text>
+<text x="27" y="108" fill="#AAB6C2" font-family="Arial,Helvetica,sans-serif" font-size="14">ML-based detection of port scans and flood traffic.</text>
+<text x="27" y="145" fill="#687687" font-family="monospace" font-size="9" letter-spacing="1.5">ACDR-CODE  /  PROJECT 02</text>
+<g transform="translate(407 45)"><rect x="0" y="0" width="76" height="76" rx="13" fill="#17263A" stroke="#315477"/><path d="M10 55h12l8-24 10 16 8-29 8 19h10" fill="none" stroke="#78B9FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="50" cy="18" r="4" fill="#78B9FF"/></g><path d="M478 139h12m-5-5 5 5-5 5" stroke="#78B9FF" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

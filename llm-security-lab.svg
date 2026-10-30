@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="168" viewBox="0 0 520 168" role="img" aria-labelledby="t d">
+<title id="t">LLM-security-lab</title><desc id="d">AI SECURITY: A hands-on lab for testing LLM security weaknesses.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141D27"/><stop offset="1" stop-color="#0B1016"/></linearGradient><linearGradient id="glow"><stop stop-color="#C4A1FF" stop-opacity=".85"/><stop offset="1" stop-color="#C4A1FF" stop-opacity="0"/></linearGradient></defs>
+<rect x="1" y="1" width="518" height="166" rx="16" fill="url(#bg)" stroke="#2B3744" stroke-width="1.5"/><rect x="1" y="1" width="4" height="166" rx="2" fill="#C4A1FF"/>
+<text x="27" y="27" fill="#C4A1FF" font-family="monospace" font-size="10" letter-spacing="2">AI SECURITY</text><path d="M27 37H350" stroke="url(#glow)" stroke-width="1.5"/>
+<text x="27" y="78" fill="#F3F6FA" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">LLM-security-lab</text>
+<text x="27" y="108" fill="#AAB6C2" font-family="Arial,Helvetica,sans-serif" font-size="14">A hands-on lab for testing LLM security weaknesses.</text>
+<text x="27" y="145" fill="#687687" font-family="monospace" font-size="9" letter-spacing="1.5">ACDR-CODE  /  PROJECT 03</text>
+<g transform="translate(407 45)"><rect x="0" y="0" width="76" height="76" rx="13" fill="#28213A" stroke="#554174"/><path d="M38 13l21 8v15c0 14-9 23-21 28-12-5-21-14-21-28V21z" fill="none" stroke="#C4A1FF" stroke-width="3"/><path d="M28 38l7 7 14-15" fill="none" stroke="#C4A1FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M478 139h12m-5-5 5 5-5 5" stroke="#C4A1FF" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
